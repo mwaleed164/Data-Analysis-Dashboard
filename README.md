@@ -32,3 +32,6 @@ To analyze sales data using Excel by cleaning, processing, and visualizing key b
 - Pivot Tables & Charts
 - Interactive Dashboard Design
 - Business Intelligence & Insights
+
+## Dashboard
+![Screenshot 2025-06-13 102841](https://github.com/user-attachments/assets/977aa763-f431-4467-8bf8-420f3b345b36)
