@@ -35,3 +35,7 @@ To analyze sales data using Excel by cleaning, processing, and visualizing key b
 
 ## Dashboard
 ![Screenshot 2025-06-13 102841](https://github.com/user-attachments/assets/977aa763-f431-4467-8bf8-420f3b345b36)
+
+## Final Conclusion
+Through data cleaning, preprocessing, and visualization in Excel, this project successfully uncovered key trends in sales and profit across product lines and regions.
+The interactive dashboard enables quick insights, helping stakeholders make informed decisions based on product performance, customer behavior, and regional contributions.
