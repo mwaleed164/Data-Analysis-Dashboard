@@ -1,2 +1,3 @@
-# Data-Analysis-Dashboard
-I developed a complete Excel-based data analysis project using a sales dataset containing order, product, customer, and financial information. The objective was to extract business insights, analyze performance trends, and present findings through a dynamic and interactive dashboard.
+# Comprehensive Sales Data Analysis and Excel Dashboard
+## Project Objectives
+To analyze sales data using Excel by cleaning, processing, and visualizing key business metrics.The goal was to uncover insights on customer behavior, product performance, and regional trends
