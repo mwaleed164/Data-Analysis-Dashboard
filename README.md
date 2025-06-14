@@ -2,10 +2,10 @@
 ## Project Objectives
 To analyze sales data using Excel by cleaning, processing, and visualizing key business metrics.The goal was to uncover insights on customer behavior, product performance, and regional trends
 
-##Dataset used
+## Dataset used
 - <a href="https://github.com/mwaleed164/Data-Analysis-Dashboard/blob/main/Sales%20Data%20Project.xlsx">Dataset"</a>
 
-##Data Preprocessing & Cleaning:
+## Data Preprocessing & Cleaning:
 - Verified the dataset for missing values, anomalies, and duplicates
 - Standardized inconsistent entries across columns like Product Line, Country, and Order Status
 - Converted columns to correct data types (e.g., date, currency, integers)
@@ -13,7 +13,7 @@ To analyze sales data using Excel by cleaning, processing, and visualizing key b
 - Total Sales = Quantity Ordered × Price Each
 - Year, Quarter, and Month extracted from Order Date
 
-##Data Analysis & Visualization:
+## Data Analysis & Visualization:
 - Created Pivot Tables to analyze:
 - Sales by Product Line, Country, and Deal Size
 - Profitability trends by Quarter and Region
@@ -26,7 +26,7 @@ To analyze sales data using Excel by cleaning, processing, and visualizing key b
 
 - Dashboard <a href="https://github.com/mwaleed164/Data-Analysis-Dashboard/blob/main/Screenshot%202025-06-13%20102841.png">Dashboard view"</a>
 
-##Tools & Techniques Used:
+## Tools & Techniques Used:
 - Microsoft Excel (Advanced)
 - Data Cleaning & Preprocessing
 - Pivot Tables & Charts
